@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvarse",
+        "uuid": 1131810,
+        "checksum": "fl92w7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
